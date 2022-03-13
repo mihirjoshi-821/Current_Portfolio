@@ -19,7 +19,8 @@ Data Analysis | Logical Thinking & Problem Solving | Written & Verbal Communicat
 ### Python Libraries: *Pandas, Numpy, Matplotlib, Sklearn* 
 ### Database: *SQL* 
 ### Data Visualization: *MS Excel/PowerPoint, Tableau* 
-### Web Framework: *Django, Wireframe* 
+### Version control: *Git, GitHub* 
+### UI/UX Framework: *Wireframe* 
 ### Cloud Deployment: *Heroku* 
 ### Cloud Services: *AWS* 
 ### Tools: *Pycharm, VScode, Anaconda* 
