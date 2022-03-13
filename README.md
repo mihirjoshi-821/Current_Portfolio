@@ -8,7 +8,7 @@
 # Work Experience
 
 * ## Bleetech Innovation(2019)
- Website Development bleetech.in. Worked on relevant industry analytics and SEO.
+    Website Development bleetech.in. Worked on relevant industry analytics and SEO.
 
 # Key Skills
 Data Analysis | Logical Thinking & Problem Solving | Written & Verbal Communication
