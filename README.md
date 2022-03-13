@@ -27,7 +27,7 @@ Data Analysis | Logical Thinking & Problem Solving | Written & Verbal Communicat
 # Courses & Certification
 * Machine Learning - Kaggle
 * AWS - Coursera
-* Excelr Solutions
+* Data Analytics - Excelr Solutions
 
 # Projects
 * Credit Card Fraud Detection with Python and Data Science
