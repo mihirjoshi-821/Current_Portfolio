@@ -18,7 +18,7 @@ Data Analysis | Logical Thinking & Problem Solving | Written & Verbal Communicat
 ### ML Algorithms: *Linear/Logistics Regression, KNN, Random Forest Model* 
 ### Python Libraries: *Pandas, Numpy, Matplotlib, Sklearn* 
 ### Database: *SQL* 
-### Data Visualization: *MS Excel/PowerPoint, Tableu* 
+### Data Visualization: *MS Excel/PowerPoint, Tableau* 
 ### Web Framework: *Django, Wireframe* 
 ### Cloud Deployment: *Heroku* 
 ### Cloud Services: *AWS* 
