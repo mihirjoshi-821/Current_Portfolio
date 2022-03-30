@@ -11,7 +11,7 @@
     Website Development bleetech.in. Worked on relevant industry analytics and SEO.
 
 # Key Skills
-Data Analysis | Logical Thinking & Problem Solving | Written & Verbal Communication
+Logical, Strategic & Critical Thinking | Problem Solving | Written & Verbal Communication | Leadership | Team Work | Digital Savviness
 
 # Technical Skills
 ### Languages: *Python, HTML, CSS, Javascript, Java, Solidity, PHP*
