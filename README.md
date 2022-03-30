@@ -17,7 +17,10 @@ Data Analysis | Logical Thinking & Problem Solving | Written & Verbal Communicat
 ### Languages: *Python, HTML, CSS, Javascript, Java, Solidity, PHP*
 ### ML Algorithms: *Linear/Logistics Regression, KNN, Random Forest Model* 
 ### Python Libraries: *Pandas, Numpy, Matplotlib, Sklearn* 
+### Data Extraction: *Web Scraping*
+### AP: *REST, SOAP*
 ### Database: *SQL* 
+### RDBMS: *MySQL*
 ### Data Visualization: *MS Excel/PowerPoint, Tableau* 
 ### Version control: *Git, GitHub* 
 ### UI/UX Framework: *Wireframe* 
